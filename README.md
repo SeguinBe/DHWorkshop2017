@@ -2,6 +2,11 @@
 
 This repository contains the code used for the hands-on session of the "Computer Vision for Digital Humanities" Workshop on the 7th of August during the DHCONF2017.
 
+Slides used for the two sessions :
+
+- https://goo.gl/ZjaVnk
+- https://goo.gl/v3ZAZZ
+
 ## Installation
 
 If you want to be able to run the experiments by yourselves :
