@@ -7,6 +7,13 @@ Slides used for the two sessions :
 - https://goo.gl/ZjaVnk
 - https://goo.gl/v3ZAZZ
 
+## Organization
+
+There were two hands-on sessions :
+
+- The first one is about simple image processing and getting used with the notebook system [here](https://github.com/SeguinBe/DHWorkshop2017/blob/master/first-session/WS-DH17.ipynb).
+- The second one was about [face detection and recognition](https://github.com/SeguinBe/DHWorkshop2017/blob/master/second-session/Faces/Face%20Detection%20and%20Identification.ipynb) and using [generic Neural Network features as a first approach for any vision task](https://github.com/SeguinBe/DHWorkshop2017/blob/master/second-session/Generic%20CNN/Generic%20Convolutional%20Features.ipynb).
+
 ## Installation
 
 If you want to be able to run the experiments by yourselves :
